@@ -1,6 +1,9 @@
- ## Running the code
+## Cambios realizados en el branch
 
-  Run `npm i` to install the dependencies.
+Se desarrolló el módulo de inventario para la administración de materias primas, permitiendo registrar, editar, eliminar y reabastecer materiales, además de visualizar el estado del stock mediante alertas y estadísticas en tiempo real.
 
-  Run `npm run dev` to start the development server.
-  
+## Running the code
+
+Run `npm i` to install the dependencies.
+
+Run `npm run dev` to start the development server.
